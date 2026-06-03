@@ -9,10 +9,10 @@ My project: finance blog - "Blog do Dindim"
 
 
 **Source-code:**
-    /src
+    Inside src/ folder.
 
 **Website URL**:
-    <https://.....>
+    <https://estev-s.github.io/blog-project/>
 
 
 **Thank You!**
