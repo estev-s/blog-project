@@ -5,12 +5,11 @@ development coursework.
 
 Requirement: create a blog of a given subject.
 
-My project: finance blog.
+My project: finance blog - "Blog do Dindim"
 
 
 **Source-code:**
     /src
-    /include
 
 **Website URL**:
     <https://.....>
